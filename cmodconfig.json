@@ -1,0 +1,7 @@
+{
+    "output": "build/AntohiRobert_counter.o",
+    "command": "g++ -fmodules-ts",
+    "dependencies": [],
+    "liborexe": "lib",
+    "srcfiles": "*.cpp"
+}
