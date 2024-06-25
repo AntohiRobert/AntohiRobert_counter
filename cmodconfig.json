@@ -3,5 +3,7 @@
     "command": "g++ -fmodules-ts",
     "dependencies": [],
     "liborexe": "lib",
-    "srcfiles": "*.cpp"
+    "srcfiles": [
+        "*.cpp"
+    ]
 }
